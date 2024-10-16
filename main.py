@@ -1,1 +1,1 @@
-print("Hello, commit message corrections! Derp.")
+print("Hello, commit message corrections!")
